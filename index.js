@@ -19,3 +19,4 @@ dogContentDiv.append(dogContentImage)
 //Make a dogDetails div
 let dogDetailsDiv = document.createElement('div')
 dogDetailsDiv.setAttribute('class', 'dog-details')
+dogDetailsHeader = document.createElement('h3')
